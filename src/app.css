@@ -1,0 +1,10 @@
+
+.clean-list,
+.horizontal-list {
+	padding: 0;
+	list-style: none;
+}
+
+.horizontal-list li {
+	display: inline-block;
+}
